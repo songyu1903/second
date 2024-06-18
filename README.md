@@ -2,4 +2,3 @@
 
 - remote repository
 - push & pull Exemple
-- 
